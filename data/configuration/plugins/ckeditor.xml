@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<document>
+	<parameter name="folder" type="string">data/medias/</parameter>
+	<parameter name="static" type="numeric">1</parameter>
+	<parameter name="extraPlugins" type="cdata"><![CDATA[]]></parameter>
+	<parameter name="height" type="string">500</parameter>
+</document>

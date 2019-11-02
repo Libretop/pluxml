@@ -1,0 +1,5 @@
+User-agent: * 
+Disallow: /test/ 
+Disallow: /data/ 
+Disallow: /core/ 
+Sitemap: http://вашдомен.рф/sitemap.php 
